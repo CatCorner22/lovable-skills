@@ -38,6 +38,7 @@ Descriptions guide skill selection. Each skill keeps a narrow job; use its bound
 |---|---|
 | creative-spark | Explores 4 distinct concepts with subagents, then builds 1 signature idea that is original, dynamic, and still usable. |
 | ux-engineering | Repairs task flows, forms, feedback, and recovery states. |
+| voice-of-customer | Acts as the customer: walks the plan before code, then browser-tests each slice as intended and to break, with a screenshot for every finding. |
 | supabase-best-practices | Guides schema, migrations, RLS design, indexes, functions, auth, and storage. |
 | payments-stripe-safe | Builds server-owned Stripe billing with test-mode proof. |
 
