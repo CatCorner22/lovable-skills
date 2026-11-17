@@ -1,6 +1,6 @@
 ---
 name: completion-evidence-gate
-description: Use when preparing a completion or status report that claims work is done, fixed, implemented, or passing. Pairs each acceptance test with actual evidence. Not for the publish decision → use launch-gate; not for factual source confidence → use claim-evidence-pairing.
+description: Use when preparing a completion or status report that claims work is done, fixed, implemented, or passing. Pairs each acceptance test with actual evidence. Not for the publish decision → use launch-gate.
 ---
 
 # Completion evidence gate

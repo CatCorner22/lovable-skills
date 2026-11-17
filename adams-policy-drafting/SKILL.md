@@ -1,6 +1,6 @@
 ---
 name: adams-policy-drafting
-description: Use when drafting or revising privacy policies, terms, consent text, or refund pages in the app. Applies Adams-style one-way drafting with clear actors, duties, and permissions. Not for general app microcopy → use plain-copy; not for a full evidence audit → use chicken-little-overwatch.
+description: Use when drafting or revising privacy policies, terms, consent text, or refund pages in the app. Applies Adams-style one-way drafting with clear actors, duties, and permissions. Not for general app microcopy → use plain-copy.
 ---
 
 # Adams policy drafting

@@ -1,6 +1,6 @@
 ---
 name: plain-copy
-description: Use when writing or shortening user-facing app text, including buttons, errors, empty states, emails, and onboarding. Keeps meaning and gives a clear next step. Not for policy obligations → use adams-policy-drafting; not for executive briefs → use smart-brevity.
+description: Use when writing or shortening user-facing app text, including buttons, errors, empty states, emails, and onboarding. Keeps meaning and gives a clear next step. Not for policy obligations → use adams-policy-drafting.
 ---
 
 # Plain copy

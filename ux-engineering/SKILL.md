@@ -1,6 +1,6 @@
 ---
 name: ux-engineering
-description: Use when improving task flows, forms, onboarding steps, recovery, or loading, empty, error, and success states. Focuses on usable behavior. Not for visual style and tokens → use evidence-based-ui-design; use Lovable's built-in accessibility skill for a dedicated accessibility audit.
+description: Use when improving task flows, forms, onboarding steps, recovery, or loading, empty, error, and success states. Focuses on usable behavior. Not for visual style and tokens → use creative-spark; use Lovable's built-in accessibility skill for a dedicated accessibility audit.
 ---
 
 # UX engineering
