@@ -43,6 +43,7 @@ Descriptions guide skill selection. Each skill keeps a narrow job; use its bound
 
 | Skill | Use it for |
 |---|---|
+| creative-spark | Explores 4 distinct concepts with subagents, then builds 1 signature idea that is original, dynamic, and still usable. |
 | evidence-based-ui-design | Chooses visual direction and tokens, then checks rendered screens. |
 | ux-engineering | Repairs task flows, forms, feedback, and recovery states. |
 | stable-architecture | Keeps domain rules testable and adapters replaceable. |

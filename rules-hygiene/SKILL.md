@@ -1,6 +1,6 @@
 ---
 name: rules-hygiene
-description: Use when creating or trimming Lovable workspace or project Instructions, or root AGENTS.md, especially when rules grow long or conflict. Keeps durable context lean. Not for rewriting individual negative rules → use negative-constraint-compiler.
+description: Use when creating or trimming Lovable workspace or project Instructions, or root AGENTS.md, especially when rules grow long or conflict. Keeps durable context lean.
 ---
 
 # Rules hygiene
@@ -12,7 +12,7 @@ Keep always-loaded guidance short. Put task detail where the agent can read it o
 2. Find duplicates, conflicts, stale commands, and task-specific runbooks.
 3. Keep the top 10 lines for the most useful facts: app layout, verified build and test steps, and the 3 main risks.
 4. Aim for at most 150 lines per file. Treat that as a house target, not a Lovable limit.
-5. Write triggered steps: “When changing a table, check its migration and RLS.” Use `negative-constraint-compiler` for vague or negative-only rules.
+5. Write triggered steps: “When changing a table, check its migration and RLS.” Turn each vague or negative-only rule into a positive step with a trigger and a check: “Never break auth” becomes “When changing login code, sign in and out in the preview before you report.”
 6. Move long deploy, migration, and review guides into linked project docs or skills. Verify each link.
 7. Point to existing formatter, test, and security checks instead of copying their rules.
 8. Add “Last reviewed: YYYY-MM-DD”. Remove stale history and repeated README text.
