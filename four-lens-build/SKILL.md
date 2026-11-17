@@ -39,9 +39,9 @@ For each slice, in order:
    - The build passes with no type errors.
    - The preview loads with no console errors.
    - The slice's own check passes (click the flow, test the query, call the function).
+   - For a slice the customer sees, run `voice-of-customer` on it.
 3. Review the diff with a fresh read-only subagent using lens D. Fix what it finds now.
 4. Every 3 slices, or after any data or backend change, rerun lens C on the new code.
-   - For a slice the customer sees, run `voice-of-customer` on it before you move on.
 5. Go to the next slice only when every check passes.
 
 Stop rule: if the same slice fails twice, stop writing code. Find the root cause first (read the error, the logs, and the diff). Revert the slice if the fix gets tangled. Then try again with a smaller slice.
